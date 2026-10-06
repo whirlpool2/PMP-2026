@@ -1,5 +1,7 @@
 # PMP-2026
 
+**Student**: Mihalache Ștefan (3B2)
+
 ## Instalare
 
 Trebuie instalată o versiune de Python >3.10. (https://www.python.org/downloads/)
