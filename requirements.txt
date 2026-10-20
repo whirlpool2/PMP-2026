@@ -1,5 +1,6 @@
 pymc
 pgmpy
+pyagrum
 arviz
 matplotlib
 numpy
