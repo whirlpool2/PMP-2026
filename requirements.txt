@@ -5,3 +5,6 @@ arviz
 matplotlib
 numpy
 jupyter
+hmmlearn
+networkx
+pydot  # necesita graphviz instalat in sistem (comanda `dot`)
